@@ -7,4 +7,3 @@ Fully Responsive: Optimized for all devices, ensuring a seamless user experience
 Fluid Typography & Layout: Carefully crafted to maintain readability and balance across all screen sizes.
 This project is another step forward in my journey of mastering front-end development and bringing aesthetic, functional designs to life!
 
-#WebDevelopment #ResponsiveDesign #Frontend #UXUI #HTML #CSS #ModernDesign #WebDesign #DesignInspiration #CreativeCoding
